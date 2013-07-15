@@ -13,15 +13,15 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#181311</string>
+		<string>#3a3432</string>
 		<key>divider</key>
-		<string>#181311</string>
+		<string>#3a3432</string>
 		<key>foreground</key>
-		<string>#2b2a28</string>
+		<string>#5c5855</string>
 		<key>selectionBackground</key>
-		<string>#201e1b</string>
+		<string>#4a4543</string>
 		<key>selectionForeground</key>
-		<string>#a09f93</string>
+		<string>#807d7c</string>
 	</dict>
 	<key>settings</key>
 	<array>
@@ -31,15 +31,15 @@
 				<key>background</key>
 				<string>#090300</string>
 				<key>caret</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 				<key>foreground</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 				<key>invisibles</key>
-				<string>#2b2a28</string>
+				<string>#5c5855</string>
 				<key>lineHighlight</key>
-				<string>#181311</string>
+				<string>#3a3432</string>
 				<key>selection</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2b2a28</string>
+				<string>#5c5855</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -397,9 +397,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 				<key>foreground</key>
-				<string>#a9a89d</string>
+				<string>#a5a2a2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,6 +494,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>0de5f3ed-df65-44d2-8734-c01fe2836849</string>
+	<string>74286223-798d-49e7-a75e-687598b559f2</string>
 </dict>
 </plist>

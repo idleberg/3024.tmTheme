@@ -17,11 +17,11 @@
 		<key>divider</key>
 		<string>#f7f7f7</string>
 		<key>foreground</key>
-		<string>#201e1b</string>
+		<string>#4a4543</string>
 		<key>selectionBackground</key>
 		<string>#f7f7f7</string>
 		<key>selectionForeground</key>
-		<string>#a9a89d</string>
+		<string>#a5a2a2</string>
 	</dict>
 	<key>settings</key>
 	<array>
@@ -31,15 +31,15 @@
 				<key>background</key>
 				<string>#f7f7f7</string>
 				<key>caret</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 				<key>foreground</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 				<key>invisibles</key>
-				<string>#d7d6d2</string>
+				<string>#d6d5d4</string>
 				<key>lineHighlight</key>
-				<string>#d7d6d2</string>
+				<string>#d6d5d4</string>
 				<key>selection</key>
-				<string>#d7d6d2</string>
+				<string>#d6d5d4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a09f93</string>
+				<string>#807d7c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -397,9 +397,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#d7d6d2</string>
+				<string>#d6d5d4</string>
 				<key>foreground</key>
-				<string>#201e1b</string>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,6 +494,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>6608ab8d-1cc1-4822-b605-2d2bee31107a</string>
+	<string>b9207b61-6500-44b7-898e-8cdab213943b</string>
 </dict>
 </plist>

@@ -1,4 +1,4 @@
-# 3024 theme for TextMate & Sublime Text
+# 3024 for TextMate & Sublime Text
 
 A color scheme inspired by [Jeroen Erosie][1]'s artwork for Martyn's [3024][2] record label.
 
