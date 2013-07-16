@@ -25,7 +25,7 @@ With [auto_upgrade][5] enabled, Package Control will keep all installed packages
 
 1. Download a `.tmTheme` file
 2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Copy the `.tmTheme` file to `Packages\Color Scheme - Default`
+3. Copy the `.tmTheme` file to `Packages\User`
 
 ## License
 
