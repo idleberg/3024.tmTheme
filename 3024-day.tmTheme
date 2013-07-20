@@ -12,7 +12,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
+	<key>author</key>
 	<string>Jan T. Sott (http://github.com/idleberg)</string>
 	<key>name</key>
 	<string>3024 day</string>
