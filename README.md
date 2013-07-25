@@ -54,7 +54,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 [1]: http://www.erosie.net/
 [2]: http://www.3024world.com/
 [3]: https://github.com/idleberg/3024
-[4]: https://raw.github.com/idleberg/3024.tmTheme/master/images/screenshot.gif
+[4]: https://raw.github.com/idleberg/3024.tmTheme/master/preview/screenshot.gif
 [5]: http://wbond.net/sublime_packages/package_control/
 [6]: http://wbond.net/sublime_packages/package_control/settings/
 [7]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/3024/&title=3024&20Color%20Scheme&description=A%20color%20scheme%20inspired%20by%20[Jeroen%20Erosie%27s%20artwork%20for%20the%203024%20record%20label&language=en_GB&tags=3024,erosie,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
