@@ -13,9 +13,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Jan T. Sott (http://github.com/idleberg)</string>
+	<string>Jan T. Sott</string>
 	<key>name</key>
 	<string>3024 night</string>
+	<key>comment</key>
+	<string>https://github.com/idleberg/3024.tmTheme</string>
 	<key>semanticClass</key>
 	<string>3024.night</string>
 	<key>colorSpaceName</key>
