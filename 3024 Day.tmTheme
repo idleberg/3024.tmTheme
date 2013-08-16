@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/3024.tmTheme</string>
 	<key>semanticClass</key>
-	<string>3024.day</string>
+	<string>theme.3024.day</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
