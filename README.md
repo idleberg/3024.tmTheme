@@ -53,7 +53,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 [1]: http://www.erosie.net/
 [2]: http://www.3024world.com/
-[3]: https://github.com/idleberg/3024
+[3]: https://github.com/0x3024
 [4]: https://raw.github.com/idleberg/3024.tmTheme/master/preview/screenshot.gif
 [5]: http://wbond.net/sublime_packages/package_control/
 [6]: http://wbond.net/sublime_packages/package_control/settings/
