@@ -57,6 +57,3 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [4]: https://raw.github.com/idleberg/3024.tmTheme/master/preview/screenshot.gif
 [5]: http://wbond.net/sublime_packages/package_control/
 [6]: http://wbond.net/sublime_packages/package_control/settings/
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/3024.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
