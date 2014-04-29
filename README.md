@@ -49,7 +49,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][7]
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/3024.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [1]: http://www.erosie.net/
 [2]: http://www.3024world.com/
@@ -57,4 +57,6 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 [4]: https://raw.github.com/idleberg/3024.tmTheme/master/preview/screenshot.gif
 [5]: http://wbond.net/sublime_packages/package_control/
 [6]: http://wbond.net/sublime_packages/package_control/settings/
-[7]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/3024/&title=3024%20Color%20Scheme&description=A%20color%20scheme%20inspired%20by%20[Jeroen%20Erosie%27s%20artwork%20for%20the%203024%20record%20label&language=en_GB&tags=3024,erosie,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/3024.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
